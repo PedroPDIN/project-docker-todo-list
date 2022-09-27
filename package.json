@@ -6,14 +6,6 @@
   "scripts": {
     "test": "jest --runInBand --detectOpenHandles --forceExit --verbose"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/betrybe/sd-0x-project-docker-todo-list.git"
-  },
-  "bugs": {
-    "url": "https://github.com/betrybe/sd-0x-project-docker-todo-list/issues"
-  },
-  "homepage": "https://github.com/betrybe/sd-0x-project-docker-todo-list#readme",
   "devDependencies": {
     "jest": "27.2.3",
     "uuid": "8.3.2"
